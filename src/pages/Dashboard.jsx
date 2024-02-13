@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import TableInventorySD from "../components/Dashboard/tableInventorySD";
 import ChartMonthDivisi from "../components/Dashboard/chartMonthDivisi";
 import TableInventoryProyek from "../components/Dashboard/tableInventoryProyek";
-import Statistics from "../components/Dashboard/statistics";
+import Statistics from "../components/Dashboard/Statistics";
 import TableInventoryMG from "../components/Dashboard/tableInventoryMG";
 import { apiData } from "../components/Dashboard/variables/apiData";
 
